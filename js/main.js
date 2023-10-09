@@ -26,7 +26,7 @@ controls.rotateSpeed = 3.0; // Povećajte ili smanjite ovu vrednost prema vašim
 controls.mouseButtons = {
     LEFT: THREE.MOUSE.ROTATE,
     MIDDLE: THREE.MOUSE.DOLLY,
-    RIGHT: THREE.MOUSE.PAN,
+    RIGHT: THREE.MOUSE.ROTATE,
 };
 
 controls.enableZoom = true;
