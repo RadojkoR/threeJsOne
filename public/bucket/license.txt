@@ -1,0 +1,11 @@
+Model Information:
+* title:	Buckets excavator
+* source:	https://sketchfab.com/3d-models/buckets-excavator-76de2eb2a1524edbb60e4bf1aa0acf68
+* author:	Alloyzy (https://sketchfab.com/alloyzy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Buckets excavator" (https://sketchfab.com/3d-models/buckets-excavator-76de2eb2a1524edbb60e4bf1aa0acf68) by Alloyzy (https://sketchfab.com/alloyzy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
